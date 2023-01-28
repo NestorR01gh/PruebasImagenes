@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreubasImagenes", "PreubasImagenes.csproj", "{620C0768-C310-4D17-AD67-F043EC1E7B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLibrary", "..\DBLibrary\DBLibrary.csproj", "{0486A962-5F9A-4AF3-9E2C-4358237557C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620C0768-C310-4D17-AD67-F043EC1E7B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620C0768-C310-4D17-AD67-F043EC1E7B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620C0768-C310-4D17-AD67-F043EC1E7B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620C0768-C310-4D17-AD67-F043EC1E7B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0486A962-5F9A-4AF3-9E2C-4358237557C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0486A962-5F9A-4AF3-9E2C-4358237557C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0486A962-5F9A-4AF3-9E2C-4358237557C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0486A962-5F9A-4AF3-9E2C-4358237557C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6497D381-8E98-41AD-A6A8-8B1A8C1027CB}
+	EndGlobalSection
+EndGlobal
